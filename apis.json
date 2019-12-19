@@ -1,0 +1,45 @@
+{
+    "name": "Droplit.io",
+    "description": "<p>Droplit.io is a set of tools that reduce the time and cost to launch connected things. It bridges between standards and protocols as you need in a secure and scalable way. &nbsp;Launching a connected product? Speed up development to minutes instead of months. Already have a product? Add new features quickly and a public API. &nbsp;Ideal for buildings with many different types of devices and specialized equipment. Adaptable to virtually any machine or device. Integrate thousands of devices and use autonomous behaviors for easy notifications and control.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/droplit-logo.png",
+    "tags": [
+        "api service provider",
+        "have api",
+        "internet of things"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/droplit-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Droplit.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/droplit-logo.png",
+            "humanURL": "http:\/\/www.droplit.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/droplit-io-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/droplit-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DroplitIO"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.droplit.io"
+        }
+    ]
+}
